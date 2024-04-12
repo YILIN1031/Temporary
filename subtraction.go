@@ -1,5 +1,5 @@
 package Temporary
 
-func subtraction(a int, b int) int {
+func Subtraction(a int, b int) int {
   return a-b
 }
